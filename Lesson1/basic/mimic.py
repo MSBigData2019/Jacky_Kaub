@@ -69,11 +69,10 @@ def print_mimic(mimic_dict, word):
         try:
             new_w=random.choice(mimic_dict[word])
         except:
-            new_word=""
+            new_w=""
         w_list.append(new_w)
         word=new_w           
     return " ".join(w_list)
-
 
 # Provided main(), calls mimic_dict() and mimic()
 def main():

@@ -65,7 +65,7 @@ def print_top(filename):
     word_dict = word_count(filename)
     for word,count in word_dict.items():
         tup_list.append((word,count))
-    tup_list = sorted(tup_list,key=lambda x:x[1],reverse=True)[:20]
+    tup_list = sorted(tup_list,key=lambda x:x[1],reverse=True)[:500]
     for tup in tup_list:
         print(str(tup[0])+" "+str(tup[1]))
     
