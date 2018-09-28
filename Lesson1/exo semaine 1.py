@@ -68,7 +68,18 @@ def pigLatin(text):
 
 #write fizbuzz programm
 def fizbuzz():
-    return
+    R=range(1,100)
+    new_R=[]
+    for i in R:
+        a=""
+        b=""
+        if i%3==0:
+            a="fizz"
+        if i%5==0:
+            b="buzz"
+        if a or b:
+            i=a+b
+        print(i)
 
 
 response = {
