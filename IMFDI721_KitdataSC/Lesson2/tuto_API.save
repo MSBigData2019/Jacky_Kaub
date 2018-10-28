@@ -1,0 +1,10 @@
+rechercher tuto sur accès API OAuth/OAuth2 -> mecanisme d'autentification des API
+les json sont des structures de données formatés
+API sur laquelle jouer : API wikipedia -> très utile pour natural processing
+
+Utilitaire de conversion json -> jq 
+
+Se renseigner sur IHTTTP pour automatisation des taches via API
+
+!!! Python multiprocessing -> librairie qui permet de générer les threads en python
+Permet de paralléliser les taches en se basant sur les multiprocesseurs
