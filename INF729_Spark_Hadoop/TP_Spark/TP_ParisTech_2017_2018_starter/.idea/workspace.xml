@@ -1,23 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4bfe50-dcd7-4a62-82f5-33e9f80a190e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Lesson2/Reuter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson2/Reuter.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Github_top_users.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson3/Github_top_users.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TP Stats/.ipynb_checkpoints/TP Stat-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../TP Stats/.ipynb_checkpoints/TP Stat-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TP Stats/TP Stat.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../TP Stats/TP Stat.ipynb" afterDir="false" />
+    <list default="true" id="231e84fe-7f0b-4ccf-b505-32c2e7f0344c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../IMFDI721_KitdataSC/Lesson5/Sante.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IMFDI721_KitdataSC/Lesson5/Sante.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/TP_ParisTech_2017_2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TP_ParisTech_2017_2018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/tp_paristech_2017_2018_starter-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/tp_paristech_2017_2018_starter-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_and_submit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1eb5132493b204324606$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1eb5132493b204324606$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1eb5132493b204324606.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1eb5132493b204324606.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$84df276a39f985345562$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$84df276a39f985345562.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$84df276a39f985345562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$98a41210f989c5da71ba$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$98a41210f989c5da71ba.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$98a41210f989c5da71ba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a3f0ddc174ed16f78992$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a3f0ddc174ed16f78992.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a3f0ddc174ed16f78992.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$bfb27af8f051c614e894$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$bfb27af8f051c614e894.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$bfb27af8f051c614e894.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2fd29ad72183e9705b8d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2fd29ad72183e9705b8d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2fd29ad72183e9705b8d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37ae71bf24c318aa9436$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37ae71bf24c318aa9436$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37ae71bf24c318aa9436.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37ae71bf24c318aa9436.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3ac387657229969a8a64$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3ac387657229969a8a64$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3ac387657229969a8a64.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3ac387657229969a8a64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45f1a77b9d681e8196f3$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45f1a77b9d681e8196f3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45f1a77b9d681e8196f3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45f1a77b9d681e8196f3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ef388ec40c2a6fe4982$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ef388ec40c2a6fe4982$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ef388ec40c2a6fe4982$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ef388ec40c2a6fe4982$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ef388ec40c2a6fe4982$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ef388ec40c2a6fe4982.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ef388ec40c2a6fe4982.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f9483b606e2bf07cc31$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f9483b606e2bf07cc31$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f9483b606e2bf07cc31.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f9483b606e2bf07cc31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad1f89f8f99cd3636b15$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad1f89f8f99cd3636b15$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad1f89f8f99cd3636b15.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad1f89f8f99cd3636b15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3c1f10a467141657288$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3c1f10a467141657288$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3c1f10a467141657288.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3c1f10a467141657288.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b9f5747a8fef7b9097eb$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b9f5747a8fef7b9097eb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b9f5747a8fef7b9097eb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b9f5747a8fef7b9097eb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e9ca8db6ae76a5661b81$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e9ca8db6ae76a5661b81$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e9ca8db6ae76a5661b81.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e9ca8db6ae76a5661b81.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fcf111a93cf9e6fc5a07$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fcf111a93cf9e6fc5a07$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fcf111a93cf9e6fc5a07.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fcf111a93cf9e6fc5a07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/tp_paristech_2017_2018_starter-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/tp_paristech_2017_2018_starter-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/tp_paristech_2017_2018_starter-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/tp_paristech_2017_2018_starter-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-tp_paristech_2017_2018_starter-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/sparkProject/Trainer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/sparkProject/Trainer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/TP_ParisTech_2017_2018-assembly-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/TP_ParisTech_2017_2018-assembly-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/sparkProject/Trainer$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/sparkProject/Trainer$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/paristech/tp_paristech_2017_2018$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/paristech/tp_paristech_2017_2018$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/paristech/tp_paristech_2017_2018$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/paristech/tp_paristech_2017_2018$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/paristech/tp_paristech_2017_2018_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/paristech/tp_paristech_2017_2018_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/paristech/tp_paristech_2017_2018_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/paristech/tp_paristech_2017_2018_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/paristech-tp_paristech_2017_2018_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/assembly-inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/assembly-inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/assembly-outputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/assembly-outputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MDI720_Statistiques/TP2/.ipynb_checkpoints/TP2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MDI720_Statistiques/TP2/TP2.ipynb" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -25,60 +182,46 @@
     </projectState>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="536706997">
+    <session id="-2018921960">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="scala" value="1" />
+          <entry key="sh" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scala" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="1295" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="1295" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.extensions.edit" />
-      <usages-collector id="statistics.file.types.edit" />
-      <usages-collector id="statistics.file.extensions.open" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sparkProject/Preprocessor.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="43" column="44" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="44" />
-              <folding>
-                <element signature="e#26#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sparkProject/WordCount.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
-              <folding>
-                <element signature="e#26#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build_and_submit.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/sparkProject/Trainer.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+            <state relative-caret-position="-270">
+              <caret line="75" column="30" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
               <folding>
                 <element signature="e#26#59#0" expanded="true" />
               </folding>
@@ -89,21 +232,20 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build_and_submit.sh" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/sparkProject/WordCount.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/sparkProject/Preprocessor.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/sparkProject/Trainer.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1853" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,8 +257,38 @@
         <subPane>
           <expand>
             <path>
-              <item name="TP_ParisTech_2017_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp_paristech_2017_2018_starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="TP_ParisTech_2017_2018_starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp_paristech_2017_2018_starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP_ParisTech_2017_2018_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp_paristech_2017_2018_starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP_ParisTech_2017_2018_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp_paristech_2017_2018_starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP_ParisTech_2017_2018_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp_paristech_2017_2018_starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP_ParisTech_2017_2018_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp_paristech_2017_2018_starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -127,8 +299,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541972407411" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,41 +315,24 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    <configuration name="Trainer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparkProject.Trainer" />
+      <module name="TP_ParisTech_2017_2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparkProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Trainer" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -192,11 +347,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="tp_paristech_2017_2018_starter [file:/home/jacky/Jacky_Kaub/TP_Spark/TP_ParisTech_2017_2018_starter/]" />
+                <option name="name" value="tp_paristech_2017_2018_starter [file:/home/jacky/Jacky_Kaub/INF729_Spark_Hadoop/TP_Spark/TP_ParisTech_2017_2018_starter/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="tp_paristech_2017_2018_starter-build [file:/home/jacky/Jacky_Kaub/TP_Spark/TP_ParisTech_2017_2018_starter/]" />
+                <option name="name" value="tp_paristech_2017_2018_starter-build [file:/home/jacky/Jacky_Kaub/INF729_Spark_Hadoop/TP_Spark/TP_ParisTech_2017_2018_starter/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -206,20 +361,10 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../TP_Astro_MSBGD" value="1479917523000" />
+        <entry key="$PROJECT_DIR$" value="4513842157000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="1333697308" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="924338670" />
         <entry key="$PROJECT_DIR$/project/plugins.sbt" value="4157127457" />
-        <entry key="$PROJECT_DIR$/../commons" value="1476964049000" />
-        <entry key="$PROJECT_DIR$/../geotargeting" value="1476174213000" />
-        <entry key="$PROJECT_DIR$/../tensorframes" value="1479830130000" />
-      </map>
-    </option>
-  </component>
-  <component name="ScalaProjectSettings">
-    <option name="intInjectionMapping">
-      <map>
-        <entry key="xml" value="XML" />
       </map>
     </option>
   </component>
@@ -228,130 +373,84 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4f4bfe50-dcd7-4a62-82f5-33e9f80a190e" name="Default" comment="" />
-      <created>1505902905246</created>
+      <changelist id="231e84fe-7f0b-4ccf-b505-32c2e7f0344c" name="Default Changelist" comment="" />
+      <created>1541958580924</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1505902905246</updated>
+      <updated>1541958580924</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-30" width="1920" height="1110" extended-state="0" />
+    <frame x="67" y="27" width="1853" height="1053" extended-state="0" />
     <layout>
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2529349" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Nl-Palette" order="7" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="bottom" id="SBT Console" />
-      <window_info anchor="bottom" id="SBT Execute" side_tool="true" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3479592" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="10" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32972974" />
+      <window_info anchor="bottom" id="SBT Console" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3066089" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SBT Execute" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="right" id="sbt" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="SBT" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Gradle" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25035766" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Nl-Palette" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.0713422" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="10" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Properties" order="5" />
-      <window_info anchor="right" id="SBT" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Gradle" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sparkProject/Preprocessor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="43" column="44" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="44" />
-          <folding>
-            <element signature="e#26#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build_and_submit.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sparkProject/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
-          <folding>
-            <element signature="e#26#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/sparkProject/Trainer.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="-270">
+          <caret line="75" column="30" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
           <folding>
             <element signature="e#26#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
